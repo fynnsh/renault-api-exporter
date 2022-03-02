@@ -11,6 +11,13 @@ pip install -r requirement.txt
 python main.py
 ```
 
+# Grafana
+
+TrackMap Panel required
+```
+grafana-cli plugins install pr0ps-trackmap-panel
+```
+
 
 # Thanks
 Big thanks to [dehsgr](https://gist.github.com/dehsgr/32c4d3dd5f8125be3a4c66d04e41d9b8).
