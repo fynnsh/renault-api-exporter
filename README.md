@@ -1,4 +1,4 @@
-# Renault API Exporter for Prometheus
+# Renault Zoe API Exporter for Prometheus
 You must first create a `MyRenault` account and link it to your car.
 
 # Installation
