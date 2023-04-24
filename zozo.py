@@ -11,7 +11,7 @@ class Zoe:
         self.gigyaURL = "https://accounts.eu1.gigya.com"
         self.gigyaAPI = "3_7PLksOyBRkHv126x5WhHb-5pqC1qFR8pQjxSeLB6nhAnPERTUlwnYoznHSxwX668" 
         self.kamareonURL = "https://api-wired-prod-1-euw1.wrd-aws.com"
-        self.kamareonAPI = "Ae9FDWugRxZQAGm3Sxgk7uJn6Q4CGEA2"
+        self.kamareonAPI = "YjkKtHmGfaceeuExUDKGxrLZGGvtVS0J"
 
     def encodeURIComponent(self, s):
         return urllib.parse.quote(s)
